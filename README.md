@@ -6,7 +6,7 @@ TECNOLOGÍAS
 
 ## BACKEND
 ### ARQUITECTURA
- <img  height="160px"  width="160px"  style="float: left;"  src="https://github.com/RoxiLi/chatme/blob/master/assets/arquitectura-nodejs.jpg"  alt="Vex Logo"> 
+ <img  height="460px"  width="560px"  style="float: left;"  src="https://github.com/RoxiLi/chatme/blob/master/assets/arquitectura-nodejs.jpg"  alt="Vex Logo"> 
 
 
 
