@@ -39,6 +39,15 @@ En la carpeta services src/enviroments se encuenta  `enviroment.ts`:
 ````
 Se debe cambiar por la del entorno que se despliegue por defecto 'http://localhost:3000'
 
+## BASE DE DATOS
+La database cuenta con mis credenciales pero la url genérica es la de abajo seleccionada para el drive Node.js y versión 2.2.12 or later y se puede reemplazar en el backend en `DB_CONNECT`
+
+ ````
+mongodb://db_user:<password>@cluster0-shard-00-00.isyfp.mongodb.net:27017,cluster0-shard-00-01.isyfp.mongodb.net:27017,cluster0-shard-00-02.isyfp.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-14jx4l-shard-0&authSource=admin&retryWrites=true&w=majority
+````
+
+Replace <password> with the password for the db_user user. Replace myFirstDatabase with the name of the database that connections will use by default. Ensure any option params are URL encoded.
+
 
 
 
