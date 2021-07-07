@@ -37,7 +37,7 @@ En la carpeta services src/enviroments se encuenta  `enviroment.ts`:
  // direccion host + puerto
  baseUrl: '';
 ````
-
+Se debe cambiar por la del entorno que se despliegue por defecto 'http://localhost:3000'
 
 
 
