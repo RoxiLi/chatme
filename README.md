@@ -1,6 +1,6 @@
 # CHATME
 
-Permite dejar mensajes que persiste según la validación del usuario, admitidos  'admin' y 'invitado'
+Permite dejar mensajes que persiste según la validación del usuario. Admitidos  `admin` y `invitado`, deben ser digitados tal cual se muestra.
 TECNOLOGÍAS
 * [FRONTEND](https://github.com/RoxiLi/message-frontend/tree/master) `ANGULAR` 
 * [BACKEND](https://github.com/RoxiLi/message-backend) `NODE.JS` 
